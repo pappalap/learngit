@@ -2,6 +2,8 @@
 
 Created by following guide at https://medium.com/learn-git-today/single-branch-development-with-git-f72a052446cf
 
+Change made by checking out first commit
+
 ## Authors
 - Andrew P.
 
